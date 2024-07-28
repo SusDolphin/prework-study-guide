@@ -11,10 +11,10 @@ Provide a short description explaining the what, why, and how of your project. U
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#NA)
-- [Usage](#This study guide can be used a cheat sheet for developing websites. For example, users can add whatever notes they like in HTML, CSS, JavaScript and Git and refer to it.)
-- [Credits](#NA)
-- [License](#MIT License)
+- [Installation]N/A
+- [Usage]This study guide can be used a cheat sheet for developing websites. For example, users can add whatever notes they like in HTML, CSS, JavaScript and Git and refer to it.
+- [Credits]N/A
+- [License]MIT License
 
 ## Installation
 
